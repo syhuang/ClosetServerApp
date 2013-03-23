@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ClosetServerApp"
+  id="myeclipse.1364019241156"
+  context-root="/ClosetServerApp"
+  j2ee-spec="5.0"
+  archive="ClosetServerApp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
